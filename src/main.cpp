@@ -36,8 +36,8 @@
 #include "logendpoint.h"
 #include "mainloop.h"
 
-#define DEFAULT_CONFFILE "/etc/mavlink-router/main.conf"
-#define DEFAULT_CONF_DIR "/etc/mavlink-router/config.d"
+#define DEFAULT_CONFFILE "./configs/main.conf"
+#define DEFAULT_CONF_DIR "./configs/config.d"
 
 extern const char *BUILD_VERSION;
 
